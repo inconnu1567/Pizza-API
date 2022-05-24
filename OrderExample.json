@@ -1,0 +1,30 @@
+{"order":[{
+"customer_id": 0,
+"delivery_adress": {
+"city": "something",
+"country": "something",
+"street": "something",
+"zipcode": "something"
+},
+"note": "add water",
+"order_id": 1,
+"ordered_at": "Sat, 21 May 2022 21:07:01 GMT",
+"payment_type": "CreditCard",
+
+"pizzas": [
+{
+"name": "margarita",
+"pizza_id": 0,
+"price": 12.5,
+"vegetarian": true
+},
+{
+"name": "margarita",
+"pizza_id": 0,
+"price": 12.5,
+"vegetarian": true
+}
+],
+"status": "In progress",
+"takeaway": true
+}]}
